@@ -27,6 +27,6 @@ And finally push the code to your Raspberry Pi:
 
 `$ git push resin master`
 
-###You can start OwnCloud by accessing '<yourPiIPAddress>:<portNumber>/owncloud>' (Example: 192.168.2.123:80/owncloud) on your web browser. In this project, only port 80 and 443 are exposed and accessible.
+You can start OwnCloud by accessing `<yourPiIPAddress>:<portNumber>/owncloud>` (Example: 192.168.2.123:80/owncloud) on your web browser. In this project, only port 80 and 443 are exposed and accessible.
 
 ![Owncloud Login Page](/images/Login.JPG)
