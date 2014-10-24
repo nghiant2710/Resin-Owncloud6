@@ -15,7 +15,7 @@ This project is inspired by https://registry.hub.docker.com/u/comzone/rpi-ownclo
 1. Start a new applicaton on [Resin.io](http://resin.io) download the .zip file, format the SD card in FAT32 and extract it to your SD card. 
 1. Insert the SD card into the Raspberry Pi, power it up using the micro-usb cable and connect it to the internet.
 1. After about 10 minutes your new device should show up on your application dashboard.
-1. You can now clone the Hello Ruby repo:
+1. You can now clone the Resin-Owncloud6 repo:
 
 `$ git clone https://github.com/nghiant2710/Resin-Owncloud6.git`
 
