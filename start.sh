@@ -32,3 +32,4 @@ fi
 #/usr/sbin/apache2ctl -k start
 /usr/bin/supervisord
 /bin/bash
+#This script is based on start.sh script from https://github.com/comzone/rpi-owncloud/tree/master/resources
